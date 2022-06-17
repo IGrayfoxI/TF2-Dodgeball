@@ -4,6 +4,9 @@ Yet Another Dodgeball Plugin
 
 This project was made due to Yet Another Dodgeball plugin being incredibly old and being terribly oudated.
 
+If you live in a metric unit country and want to use the km/h please just use the tf2_dodgeball-metric plugin.
+If you live in a imperial unit country or want to use the original, use the tf2_dodgeball plugin.
+
 A wiki will be setup detailing the config for the plugin.
 
 # Features
