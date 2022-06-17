@@ -16,6 +16,7 @@ A wiki will be setup detailing the config for the plugin.
 - Accurate mph and deflection counter on kill
 - Disable tauntkilling straight from the plugin
 - Airblast Prevention toggle command (To allow for some fun for players which choose it)
+- Km/h version for those that live in metric countries.
 
 # Requirements
 
